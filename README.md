@@ -45,4 +45,4 @@
 Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.
 
 ### Решение
-![redis](https://github.com/mhfhfmn/memcached_redis/blob/main/img/redis.jpg)
+![redis](https://github.com/mhfhfmn/memcached_redis/blob/main/img/redis_1.jpg)
